@@ -62,9 +62,9 @@ Source repository: <https://github.com/ZZY1234321/ZZY1234321>
 <p align="center">
     <!-- https://github.com/badges/shields -->
     <a href="https://github.com/ZZY1234321"><img src="https://img.shields.io/badge/GitHub-ZZY1234321-blue?logo=github" /></a>
-    <a href="https://gitee.com/ZZY1234321"><img src="https://img.shields.io/badge/Gitee-ZZY1234321-blue?logo=gitee" /></a>
-    <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-我就是小康-pink?logo=bilibili" /></a>
-    <a href="https://wakatime.com/@ZZY1234321"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" /></a>
+    <a href="https://gitee.com/zhangziyan123"><img src="https://img.shields.io/badge/Gitee-ZZY1234321-blue?logo=gitee" /></a>
+    <a href="https://atomgit.com/guangf"><img src="https://img.shields.io/badge/AtomGit-blue?logo=atomgit" /></a>
+    <a href="https://wakatime.com/@ZZY1234321"><img src="https://wakatime.com/badge/user/@7739da3c-affd-41b6-aaab-f3376c6de21a.svg" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <img src="https://komarev.com/ghpvc/?username=ZZY1234321" />
 </p>
