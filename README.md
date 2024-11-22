@@ -57,7 +57,7 @@ Source repository: <https://github.com/ZZY1234321/ZZY1234321>
 </p>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,latex,regex,mermaid,matlab&titles=true">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,html,rust,md,latex,markdown,anaconda,mysql,vscode,visual studio,pycharm,linux&titles=true">
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields -->
