@@ -1,7 +1,7 @@
 <!--
 MIT License
 
-Copyright (c) 2024 Xiaokang2022
+Copyright (c) 2024 ZZY1234321
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,7 +23,7 @@ SOFTWARE.
 
 ATTENTION:
 
-Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
+Source repository: <https://github.com/ZZY1234321/ZZY1234321>
 -->
 
 <p align="center">
