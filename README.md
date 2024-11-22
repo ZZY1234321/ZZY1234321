@@ -77,8 +77,10 @@ Source repository: <https://github.com/ZZY1234321/ZZY1234321>
 ### ⏱️ Weekly Coding Stats
 
 <p align="center">
-    <!-- Wakatime -->
-    <img src="https://wakatime.com/share/@ZZY1234321/9e225507-6273-4967-b1c9-409f043a94a5.svg" width="700" />
+    <!-- WakaTime -->
+    <a href="https://wakatime.com/@ZZY1234321">
+        <img src="https://wakatime.com/share/@ZZY1234321/9e225507-6273-4967-b1c9-409f043a94a5.svg" width="700" alt="Weekly Coding Stats" />
+    </a>
 </p>
 
 ---
@@ -89,7 +91,8 @@ Source repository: <https://github.com/ZZY1234321/ZZY1234321>
     <!-- Social badges -->
     <a href="https://github.com/ZZY1234321"><img src="https://img.shields.io/badge/GitHub-ZZY1234321-181717?logo=github&color=blue" /></a>
     <a href="https://gitee.com/zhangziyan123"><img src="https://img.shields.io/badge/Gitee-ZZY1234321-C71D23?logo=gitee" /></a>
-    <a href="https://wakatime.com/@ZZY1234321"><img src="https://wakatime.com/badge/user/7739da3c-affd-41b6-aaab-f3376c6de21a.svg" /></a>
+    <a href="https://atomgit.com/users/guangf/projects"><img src="https://img.shields.io/badge/AtomGit-Open%20Source%20Platform-0071BC?logo=git" /></a>
+    <a href="https://wakatime.com/@ZZY1234321"><img src="https://img.shields.io/badge/WakaTime-ZZY1234321-3F74C0?logo=wakatime" /></a>
     <img src="https://komarev.com/ghpvc/?username=ZZY1234321&style=flat-square&color=blue" />
 </p>
 
