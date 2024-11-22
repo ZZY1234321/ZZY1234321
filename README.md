@@ -26,12 +26,12 @@ Source repository: <https://github.com/ZZY1234321/ZZY1234321>
 
 <p align="center">
     <!-- Header banner -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!&fontSize=80&fontAlign=50&desc=Welcome%20to%20my%20GitHub!&descAlignY=65&descAlign=50&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDEE9,100:B5FFFC&height=250&section=header&text=Hi%20There!&fontSize=75&fontColor=333&desc=Welcome%20to%20my%20GitHub!&descAlignY=65&descAlign=50" />
 </p>
 
 <p align="center">
     <!-- Typing effect -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=I+am+ZZY1234321;Welcome+to+my+GitHub+Profile!;Explore+my+projects+below!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&pause=1000&color=0E80D3&center=true&vCenter=true&width=600&lines=I+am+ZZY1234321;Welcome+to+my+GitHub+Profile!;Explore+my+projects+below!" />
 </p>
 
 ---
@@ -40,9 +40,9 @@ Source repository: <https://github.com/ZZY1234321/ZZY1234321>
 
 <p align="center">
     <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=ZZY1234321&theme=radical&show_icons=true&hide_title=true&hide=contribs&include_all_commits=true" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ZZY1234321&theme=default&show_icons=true&hide_title=true&hide=contribs&include_all_commits=true" width="400" />
     <!-- Streak Stats -->
-    <img src="https://streak-stats.demolab.com?user=ZZY1234321&theme=radical&hide_border=true" width="400" />
+    <img src="https://streak-stats.demolab.com?user=ZZY1234321&theme=default&hide_border=true" width="400" />
 </p>
 
 ---
@@ -51,7 +51,7 @@ Source repository: <https://github.com/ZZY1234321/ZZY1234321>
 
 <p align="center">
     <!-- Contribution Graph -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZZY1234321&theme=react-dark&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZZY1234321&theme=light&hide_border=true&area=true" />
 </p>
 
 ---
@@ -69,7 +69,7 @@ Source repository: <https://github.com/ZZY1234321/ZZY1234321>
 
 <p align="center">
     <!-- Trophies -->
-    <img src="https://github-profile-trophy.vercel.app/?username=ZZY1234321&theme=radical&no-bg=true&no-frame=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ZZY1234321&theme=gruvbox&no-bg=true&no-frame=true" />
 </p>
 
 ---
@@ -87,7 +87,7 @@ Source repository: <https://github.com/ZZY1234321/ZZY1234321>
 
 <p align="center">
     <!-- Social badges -->
-    <a href="https://github.com/ZZY1234321"><img src="https://img.shields.io/badge/GitHub-ZZY1234321-181717?logo=github" /></a>
+    <a href="https://github.com/ZZY1234321"><img src="https://img.shields.io/badge/GitHub-ZZY1234321-181717?logo=github&color=blue" /></a>
     <a href="https://gitee.com/zhangziyan123"><img src="https://img.shields.io/badge/Gitee-ZZY1234321-C71D23?logo=gitee" /></a>
     <a href="https://wakatime.com/@ZZY1234321"><img src="https://wakatime.com/badge/user/7739da3c-affd-41b6-aaab-f3376c6de21a.svg" /></a>
     <img src="https://komarev.com/ghpvc/?username=ZZY1234321&style=flat-square&color=blue" />
@@ -97,5 +97,5 @@ Source repository: <https://github.com/ZZY1234321/ZZY1234321>
 
 <p align="center">
     <!-- Footer banner -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontAlign=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDEE9,100:B5FFFC&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=333" />
 </p>
