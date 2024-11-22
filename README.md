@@ -74,16 +74,6 @@ Source repository: <https://github.com/ZZY1234321/ZZY1234321>
 
 ---
 
-### ⏱️ Weekly Coding Stats
-
-<p align="center">
-    <!-- WakaTime -->
-    <a href="https://wakatime.com/@ZZY1234321">
-        <img src="https://wakatime.com/share/@ZZY1234321/9e225507-6273-4967-b1c9-409f043a94a5.svg" width="700" alt="Weekly Coding Stats" />
-    </a>
-</p>
-
----
 
 ### 🔗 Connect with Me
 
