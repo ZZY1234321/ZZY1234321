@@ -1,4 +1,3 @@
-
 <!--
 MIT License
 
@@ -22,53 +21,81 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-ATTENTION:
-
 Source repository: <https://github.com/ZZY1234321/ZZY1234321>
 -->
 
 <p align="center">
-    <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20ZZY1234321&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+    <!-- Header banner -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!&fontSize=80&fontAlign=50&desc=Welcome%20to%20my%20GitHub!&descAlignY=65&descAlign=50&animation=fadeIn" />
 </p>
+
 <p align="center">
-    <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;欢迎来到我的 GitHub 主页！" />
+    <!-- Typing effect -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=I+am+ZZY1234321;Welcome+to+my+GitHub+Profile!;Explore+my+projects+below!" />
 </p>
+
+---
+
+### 📊 My GitHub Stats
+
 <p align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=ZZY1234321&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" />
-    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <img width="400" src="https://streak-stats.demolab.com?user=ZZY1234321&theme=transparent&hide_border=true" />
+    <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=ZZY1234321&theme=radical&show_icons=true&hide_title=true&hide=contribs&include_all_commits=true" width="400" />
+    <!-- Streak Stats -->
+    <img src="https://streak-stats.demolab.com?user=ZZY1234321&theme=radical&hide_border=true" width="400" />
 </p>
+
+---
+
+### 🚀 Recent Activity
+
 <p align="center">
-    <!-- https://wakatime.com/share/embed -->
-    <img width="700" src="https://wakatime.com/share/@ZZY1234321/9e225507-6273-4967-b1c9-409f043a94a5.svg" />
+    <!-- Contribution Graph -->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZZY1234321&theme=react-dark&hide_border=true&area=true" />
 </p>
+
+---
+
+### 🛠️ My Skills
+
 <p align="center">
-    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ZZY1234321&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+    <!-- Skill icons -->
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,rust,latex,mysql,vscode,linux" />
 </p>
+
+---
+
+### 🏆 Achievements
+
 <p align="center">
-    <!-- https://github.com/ryo-ma/github-profile-trophy -->
-    <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=ZZY1234321&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" />
+    <!-- Trophies -->
+    <img src="https://github-profile-trophy.vercel.app/?username=ZZY1234321&theme=radical&no-bg=true&no-frame=true" />
 </p>
+
+---
+
+### ⏱️ Weekly Coding Stats
+
 <p align="center">
-    <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,html,rust,md,latex,markdown,anaconda,mysql,vscode,visual studio,pycharm,linux&titles=true">
+    <!-- Wakatime -->
+    <img src="https://wakatime.com/share/@ZZY1234321/9e225507-6273-4967-b1c9-409f043a94a5.svg" width="700" />
 </p>
+
+---
+
+### 🔗 Connect with Me
+
 <p align="center">
-    <!-- https://github.com/badges/shields -->
-    <a href="https://github.com/ZZY1234321"><img src="https://img.shields.io/badge/GitHub-ZZY1234321-blue?logo=github" /></a>
-    <a href="https://gitee.com/zhangziyan123"><img src="https://img.shields.io/badge/Gitee-ZZY1234321-blue?logo=gitee" /></a>
-    <a href="https://atomgit.com/guangf"><img src="https://img.shields.io/badge/AtomGit-blue?logo=atomgit" /></a>
-    <a href="https://wakatime.com/@ZZY1234321"><img src="https://wakatime.com/badge/user/@7739da3c-affd-41b6-aaab-f3376c6de21a.svg" /></a>
-    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <img src="https://komarev.com/ghpvc/?username=ZZY1234321" />
+    <!-- Social badges -->
+    <a href="https://github.com/ZZY1234321"><img src="https://img.shields.io/badge/GitHub-ZZY1234321-181717?logo=github" /></a>
+    <a href="https://gitee.com/zhangziyan123"><img src="https://img.shields.io/badge/Gitee-ZZY1234321-C71D23?logo=gitee" /></a>
+    <a href="https://wakatime.com/@ZZY1234321"><img src="https://wakatime.com/badge/user/7739da3c-affd-41b6-aaab-f3376c6de21a.svg" /></a>
+    <img src="https://komarev.com/ghpvc/?username=ZZY1234321&style=flat-square&color=blue" />
 </p>
+
+---
+
 <p align="center">
-    <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+    <!-- Footer banner -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontAlign=50" />
 </p>
