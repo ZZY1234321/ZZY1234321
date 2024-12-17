@@ -83,6 +83,7 @@ Source repository: <https://github.com/ZZY1234321/ZZY1234321>
     <a href="https://gitee.com/zhangziyan123"><img src="https://img.shields.io/badge/Gitee-ZZY1234321-C71D23?logo=gitee" /></a>
     <a href="https://atomgit.com/users/guangf/projects"><img src="https://img.shields.io/badge/AtomGit-Open%20Source%20Platform-0071BC?logo=git" /></a>
     <a href="https://wakatime.com/@ZZY1234321"><img src="https://img.shields.io/badge/WakaTime-ZZY1234321-3F74C0?logo=wakatime" /></a>
+    <a href="mailto:ZSDZZY2022@163.com"><img src="https://img.shields.io/badge/Email-ZSDZZY2022@163.com-D14836?logo=gmail" /></a>
     <img src="https://komarev.com/ghpvc/?username=ZZY1234321&style=flat-square&color=blue" />
 </p>
 
