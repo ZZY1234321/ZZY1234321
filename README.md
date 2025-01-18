@@ -60,7 +60,7 @@ Source repository: <https://github.com/ZZY1234321/ZZY1234321>
 
 <p align="center">
     <!-- Skill icons -->
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,rust,latex,mysql,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=rust,python,c,cpp,latex,mysql,vscode,linux" />
 </p>
 
 ---
