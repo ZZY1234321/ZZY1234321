@@ -36,26 +36,6 @@ Source repository: <https://github.com/ZZY1234321/ZZY1234321>
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=ZZY1234321&theme=default&show_icons=true&hide_title=true&hide=contribs&include_all_commits=true" width="400" />
-    <!-- Streak Stats -->
-    <img src="https://streak-stats.demolab.com?user=ZZY1234321&theme=default&hide_border=true" width="400" />
-</p>
-
----
-
-### 🚀 Recent Activity
-
-<p align="center">
-    <!-- Contribution Graph -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZZY1234321&theme=light&hide_border=true&area=true" />
-</p>
-
----
-
 ### 🛠️ My Skills
 
 <p align="center">
