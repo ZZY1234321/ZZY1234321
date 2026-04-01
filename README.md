@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi there, I'm Ziyan Zhang
 
-<!--
-**ZZY1234321/ZZY1234321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I will begin my graduate studies at **Xi'an Jiaotong University** in September 2026. I am currently an undergraduate majoring in CS at **China University of Petroleum (Beijing)**.
 
-Here are some ideas to get you started:
+My interests lie at the intersection of systems programming and network research. I have hands-on experience building an operating system from scratch using Rust, with a focus on memory safety and kernel performance. Currently, my research focus is shifting toward control plane simulation and the observability of dynamic routing behaviors.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Beyond coding, I genuinely enjoy appreciating all kinds of cute cats 🐱 (they are the true masters of the internet).
+
+---
+
+- 📫 **Reach me:**
+  - ziyan.clara.zhang@outlook.com
+  - zhangziyan527@163.com
+- 😄 **Pronouns:** She/Her
