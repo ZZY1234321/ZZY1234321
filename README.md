@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Ziyan Zhang
+## 👋 Hi there, I'm ziyan zhang
 
 I will begin my graduate studies at **Xi'an Jiaotong University** in September 2026. I am currently an undergraduate majoring in CS at **China University of Petroleum (Beijing)**.
 
