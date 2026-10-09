@@ -1,4 +1,4 @@
-## 👋 你好，我是 张子妍
+### 👋 你好，我是 张子妍
 
 我目前是西安交通大学电信学部计算机学院的硕士研究生，如果一切顺利，预计将于 2029 年毕业。
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 Hi there, I'm Ziyan Zhang
+### 👋 Hi there, I'm Ziyan Zhang
 
 I am currently a master's student at the School of Computer Science and Technology, **Xi'an Jiaotong University**, and if all goes well, I expect to graduate in 2029.
 
@@ -19,6 +19,8 @@ During my undergraduate years, I participated in a Rust operating system project
 If you're interested in Rust, operating systems, or networking research, feel free to reach out anytime. I'd be happy to chat and learn together.
 
 🐈 I support cats ruling the Earth.
+
+---
 
 - 📫 **联系方式 / Reach me:**
   - ziyan.clara.zhang@outlook.com
